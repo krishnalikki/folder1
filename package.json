@@ -3,6 +3,14 @@
     "name": "censorify",
     "version": "0.1.1",
     "description": "Censors words out of text",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/krishnalikki/folder1"
+     },
+    "keywords": [
+         "censor",
+        "words"
+     ],
     "main": "censortext",
     "dependencies": {},
     "engines": {
